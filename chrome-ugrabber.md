@@ -1,7 +1,3 @@
-Here’s a clear and user-friendly **Privacy Policy** in **Markdown** format for your Chrome extension:
-
----
-
 # Privacy Policy
 
 *Last updated: July 2, 2025*
@@ -72,7 +68,3 @@ We may update this Privacy Policy from time to time. If any significant changes 
 If you have any questions or concerns about your privacy while using the extension, feel free to reach out at:
 
 **\[[contact@ackbx.com](mailto:contact@ackbx.com)]**
-
----
-
-Let me know if you'd like a version tailored for the Chrome Web Store listing as well.
